@@ -6,6 +6,8 @@ Quickly setup your Raspberry Pi - particularly WIFI settings.
 
 There is a [complete guide to setting up your raspberry pi without a keyboard and mouse](http://sendgrid.com/blog/complete-guide-set-raspberry-pi-without-keyboard-mouse/) that goes along with this repo.
 
+# guide above is for MacOS. For linux use [linux.md](linux.md)
+
 ## Installation
 
 Clone and setup the ansible script. 
